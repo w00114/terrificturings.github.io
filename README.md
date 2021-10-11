@@ -1,12 +1,15 @@
-## The Terrific Turings Official Webpage!
+# The Terrific Turings Official Webpage!
 
 Welcome to our site.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Here you will find all of our code and evidence to the decodes on National Cipher Challenge 2021!
+## Practice challenge 1
 
-### Markdown
+### Part A:
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Easy. Challenge itself provided a Caesar wheel.
+
+
 
 ```markdown
 Syntax highlighted code block
