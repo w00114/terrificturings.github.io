@@ -1,4 +1,4 @@
-## The Terrific Turings oOfficial Webpage!
+## The Terrific Turings Official Webpage!
 
 Welcome to our site.
 
